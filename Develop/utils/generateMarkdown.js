@@ -62,6 +62,8 @@ function generateMarkdown(data) {
   ## Contributors
   ${data.contribute}
 
+
+  ## Questions
   Github: [${data.github}](http://github.com/${data.github})
 
 `;
