@@ -46,14 +46,18 @@ function generateMarkdown(data) {
   - [Description](#description)
   - [Installation](#install)
   - [Usage](#usage)
+  - [Usage](#test)
   - [Contributors](#contribute)
-  - [GitHub](#github)
+  - [Questions](#github)
 
   ## Installation
   ${data.install}
 
   ## Usage
   ${data.usage}
+
+  ## Testing
+  ${data.test}
 
   ## Contributors
   ${data.contribute}
